@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Versel home</h1>
-</p>
+<h1 align="center">Versel home</h1>
 
 ---
 
