@@ -1,4 +1,4 @@
-<h1 align="center">Versel home</h1>
+<h1 align="center">Vercel home</h1>
 
 ---
 
