@@ -4,4 +4,4 @@
 
 
 ### About
-This is a simple React JS application just for testing Versel services
+This is a simple React JS application just for testing Vercel services
