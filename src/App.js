@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Olá mundo
+          Página apenas para testar os serviços da <a className="App-link" href="http://vercel.com">Vercel</a>
         </p>
       </header>
     </div>
